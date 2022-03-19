@@ -1,0 +1,13 @@
+p{
+    background-color: lightpink;font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.Three{
+    background-color: lightpink;font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 24px;
+
+}
+#Two{
+    color: blue;font-size: 36px;
+}
+#Four{
+    background-color: chartreuse;font-size: 24px;font-weight: bold;
+}
